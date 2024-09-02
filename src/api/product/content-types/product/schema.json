@@ -4,18 +4,78 @@
   "info": {
     "singularName": "product",
     "pluralName": "products",
-    "displayName": "Product"
+    "displayName": "Product",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
   },
   "pluginOptions": {},
   "attributes": {
-    "Name": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "stock_quantity": {
+      "required": true,
+      "type": "integer",
+      "min": 0
+    },
+    "price": {
+      "type": "float"
+    },
+    "sku": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "brand": {
+      "type": "string",
+      "required": true
+    },
+    "order_items": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::order-item.order-item",
+      "mappedBy": "product"
+    },
+    "color": {
       "type": "string"
     },
-    "shopifyID": {
+    "estimated_market_price": {
+      "type": "float"
+    },
+    "gender": {
+      "type": "enumeration",
+      "enum": [
+        "men",
+        "women",
+        "unisex"
+      ]
+    },
+    "release_date": {
+      "type": "date"
+    },
+    "release_year": {
       "type": "string"
+    },
+    "story": {
+      "type": "text"
+    },
+    "silhouette": {
+      "type": "string"
+    },
+    "links": {
+      "type": "json"
+    },
+    "images": {
+      "type": "json"
+    },
+    "cart_item": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::cart-item.cart-item",
+      "inversedBy": "products"
     }
   }
 }

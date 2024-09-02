@@ -1,0 +1,293 @@
+{
+  "version": 2,
+  "data": {
+    "api::product.product": {
+      "1": {
+        "id": "1",
+        "name": "ASICS Gel-Kayano 14 atmos Undermycar Black",
+        "stock_quantity": 0,
+        "price": 150,
+        "sku": "1203A430-001",
+        "brand": "ASICS",
+        "color": "Black/Pure Silver",
+        "estimated_market_price": 225,
+        "gender": "men",
+        "release_date": "2023-12-09",
+        "release_year": "2023",
+        "story": "",
+        "links": {
+          "goat": "https://goat.com/sneakers/atmos-x-undermycar-x-gel-kayano-14-black-pure-silver-1203a430-001",
+          "stockX": "https://stockx.com/asics-gel-kayano-14-atmos-undermycar-black",
+          "flightClub": "https://flightclub.com/atmos-x-undermycar-x-gel-kayano-14-black-pure-silver-1203a430-001",
+          "stadiumGoods": ""
+        },
+        "images": {
+          "360": [],
+          "small": "https://image.goat.com/750/attachments/product_template_pictures/images/095/297/756/original/1203A430_001.png.png",
+          "original": "https://image.goat.com/attachments/product_template_pictures/images/095/297/756/original/1203A430_001.png.png",
+          "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/095/297/756/original/1203A430_001.png.png"
+        }
+      },
+      "2": {
+        "id": "2",
+        "name": "ASICS Gel-Kayano 14 atmos Undermycar Pepper",
+        "stock_quantity": 0,
+        "price": 150,
+        "sku": "1203A430-200",
+        "brand": "ASICS",
+        "color": "Pepper/Black",
+        "estimated_market_price": 199,
+        "gender": "men",
+        "release_date": "2023-12-09",
+        "release_year": "2023",
+        "story": "Japan’s atmos teams up with South Korean brand Undermycar on the ASICS GEL Kayano 14 ‘Pepper Black,’ featuring a dark olive mesh upper with grey synthetic overlays and black side stripes. ASICS branding adorns the tongue and sockliner, while a decorative metal plate marked with Undermycar and atmos logos can be attached to the upper eyelet. The lifestyle runner sits atop a lightweight EVA midsole with visible GEL cushioning in the forefoot and heel.",
+        "links": {
+          "goat": "https://goat.com/sneakers/atmos-x-undermycar-x-gel-kayano-14-pepper-black-1203a430-200",
+          "stockX": "https://stockx.com/asics-gel-kayano-14-atmos-undermycar-pepper",
+          "flightClub": "https://flightclub.com/atmos-x-undermycar-x-gel-kayano-14-pepper-black-1203a430-200",
+          "stadiumGoods": ""
+        },
+        "images": {
+          "360": [],
+          "small": "https://image.goat.com/750/attachments/product_template_pictures/images/095/297/757/original/1203A430_200.png.png",
+          "original": "https://image.goat.com/attachments/product_template_pictures/images/095/297/757/original/1203A430_200.png.png",
+          "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/095/297/757/original/1203A430_200.png.png"
+        }
+      },
+      "3": {
+        "id": "3",
+        "name": "ASICS Gel-Lyte III OG Cream Bisque",
+        "stock_quantity": 0,
+        "price": 110,
+        "sku": "1201A685-100",
+        "brand": "ASICS",
+        "color": "Cream/Bisque",
+        "estimated_market_price": 73,
+        "gender": "men",
+        "release_date": "2023-12-01",
+        "release_year": "2023",
+        "story": "",
+        "links": {
+          "goat": "https://goat.com/sneakers/gel-lyte-3-og-mythical-creatures-cream-1201a685-100",
+          "stockX": "https://stockx.com/asics-gel-lyte-iii-og-cream-bisque",
+          "flightClub": "https://flightclub.com/gel-lyte-3-og-mythical-creatures-cream-1201a685-100",
+          "stadiumGoods": ""
+        },
+        "images": {
+          "360": [],
+          "small": "https://image.goat.com/750/attachments/product_template_pictures/images/090/955/575/original/1097948_00.png.png",
+          "original": "https://image.goat.com/attachments/product_template_pictures/images/090/955/575/original/1097948_00.png.png",
+          "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/090/955/575/original/1097948_00.png.png"
+        }
+      },
+      "4": {
+        "id": "4",
+        "name": "ASICS Gel-Lyte III '07 Remastered Kith By Invitation Only",
+        "stock_quantity": 0,
+        "price": 195,
+        "sku": "1201A923-800",
+        "brand": "ASICS",
+        "color": "Blush/Violet-Purple",
+        "estimated_market_price": 283,
+        "gender": "men",
+        "release_date": "2023-11-28",
+        "release_year": "2023",
+        "story": "",
+        "links": {
+          "goat": "https://goat.com/sneakers/kith-x-gel-lyte-3-07-by-invitation-only-blush-kith-gl3-invitation-blush",
+          "stockX": "https://stockx.com/asics-gel-lyte-iii-07-remastered-kith-by-invitation-only",
+          "flightClub": "https://flightclub.com/kith-x-gel-lyte-3-07-by-invitation-only-blush-kith-gl3-invitation-blush",
+          "stadiumGoods": ""
+        },
+        "images": {
+          "360": [],
+          "small": "https://image.goat.com/750/attachments/product_template_pictures/images/095/522/394/original/1323313_00.png.png",
+          "original": "https://image.goat.com/attachments/product_template_pictures/images/095/522/394/original/1323313_00.png.png",
+          "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/095/522/394/original/1323313_00.png.png"
+        }
+      },
+      "5": {
+        "id": "5",
+        "name": "Jolt 4 'Storm Blue Black'",
+        "stock_quantity": 0,
+        "price": 65,
+        "sku": "1011B603-405",
+        "brand": "ASICS",
+        "color": "Storm Blue/Black",
+        "estimated_market_price": 50,
+        "gender": "men",
+        "release_date": "2023-11-26",
+        "release_year": "2023",
+        "story": "",
+        "links": {
+          "goat": "https://goat.com/sneakers/jolt-4-storm-blue-black-1011b603-405",
+          "stockX": "",
+          "flightClub": "https://flightclub.com/jolt-4-storm-blue-black-1011b603-405",
+          "stadiumGoods": ""
+        },
+        "images": {
+          "360": [],
+          "small": "https://image.goat.com/750/attachments/product_template_pictures/images/095/544/560/original/1011B603_405.png.png",
+          "original": "https://image.goat.com/attachments/product_template_pictures/images/095/544/560/original/1011B603_405.png.png",
+          "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/095/544/560/original/1011B603_405.png.png"
+        }
+      },
+      "6": {
+        "id": "6",
+        "name": "ASICS GT-2160 COSTS Shao Ji",
+        "stock_quantity": 0,
+        "price": 140,
+        "sku": "1201A938-250",
+        "brand": "ASICS",
+        "color": "Oatmeal/Indigo Blue",
+        "estimated_market_price": 176,
+        "gender": "men",
+        "release_date": "2023-11-26",
+        "release_year": "2023",
+        "story": "",
+        "links": {
+          "goat": "https://goat.com/sneakers/costs-x-gt-2160-shao-ji-1201a938-250",
+          "stockX": "https://stockx.com/asics-gt-2160-costs-shao-ji",
+          "flightClub": "https://flightclub.com/costs-x-gt-2160-shao-ji-1201a938-250",
+          "stadiumGoods": ""
+        },
+        "images": {
+          "360": [],
+          "small": "https://image.goat.com/750/attachments/product_template_pictures/images/095/477/806/original/1201A938_250.png.png",
+          "original": "https://image.goat.com/attachments/product_template_pictures/images/095/477/806/original/1201A938_250.png.png",
+          "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/095/477/806/original/1201A938_250.png.png"
+        }
+      },
+      "7": {
+        "id": "7",
+        "name": "Wmns GT 2000 12 'White Light Garnet'",
+        "stock_quantity": 0,
+        "price": 140,
+        "sku": "1012B506-100",
+        "brand": "ASICS",
+        "color": "White/Light Garnet",
+        "estimated_market_price": 295,
+        "gender": "women",
+        "release_date": "2023-11-26",
+        "release_year": "2023",
+        "story": "",
+        "links": {
+          "goat": "https://goat.com/sneakers/wmns-gt-2000-12-white-light-garnet-1012b506-100",
+          "stockX": "",
+          "flightClub": "https://flightclub.com/wmns-gt-2000-12-white-light-garnet-1012b506-100",
+          "stadiumGoods": ""
+        },
+        "images": {
+          "360": [],
+          "small": "https://image.goat.com/750/attachments/product_template_pictures/images/095/544/564/original/1012B506_100.png.png",
+          "original": "https://image.goat.com/attachments/product_template_pictures/images/095/544/564/original/1012B506_100.png.png",
+          "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/095/544/564/original/1012B506_100.png.png"
+        }
+      },
+      "8": {
+        "id": "8",
+        "name": "ASICS Gel-Kayano 14 Unaffected Infinite Wonders Pack Green",
+        "stock_quantity": 0,
+        "price": 200,
+        "sku": "1201A922-300",
+        "brand": "ASICS",
+        "color": "Posy Green/Bottle Green",
+        "estimated_market_price": 159,
+        "gender": "men",
+        "release_date": "2023-11-24",
+        "release_year": "2023",
+        "story": "Dropping as part of the collaborative ‘Infinite Wonders Pack,’ the UNAFFECTED x ASICS GEL Kayano 14 ‘Posy Green’ celebrates the 30th anniversary of the vaunted GEL Kayano franchise. A revised toggle lacing system secures the upper, crafted from dark green mesh with glossy synthetic overlays in black and Bottle Green. In addition to co-branded sockliners, the lateral heel of each shoe displays mismatched ‘UNAFFECTED’ and ‘GEL Kayano 14’ branding. The lifestyle runner is mounted on a lightweight EVA midsole with GEL cushioning for improved comfort and impact protection.",
+        "links": {
+          "goat": "https://goat.com/sneakers/unaffected-x-gel-kayano-14-infinite-wonders-pack-posy-green-1201a922-300",
+          "stockX": "https://stockx.com/asics-gel-kayano-14-unaffected-infinite-wonders-pack-emerald-green",
+          "flightClub": "https://flightclub.com/unaffected-x-gel-kayano-14-infinite-wonders-pack-posy-green-1201a922-300",
+          "stadiumGoods": ""
+        },
+        "images": {
+          "360": [],
+          "small": "https://image.goat.com/750/attachments/product_template_pictures/images/094/502/119/original/1201A922_300.png.png",
+          "original": "https://image.goat.com/attachments/product_template_pictures/images/094/502/119/original/1201A922_300.png.png",
+          "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/094/502/119/original/1201A922_300.png.png"
+        }
+      },
+      "9": {
+        "id": "9",
+        "name": "ASICS Gel-Kayano 14 Unaffected Infinite Wonders Pack Black Silver",
+        "stock_quantity": 0,
+        "price": 200,
+        "sku": "1201A922-020",
+        "brand": "ASICS",
+        "color": "Dark Shadow/Pure Silver",
+        "estimated_market_price": 193,
+        "gender": "men",
+        "release_date": "2023-11-24",
+        "release_year": "2023",
+        "story": "The UNAFFECTED x ASICS GEL Kayano 14 ‘Dark Shadow’ is taken from the ‘Infinite Wonders Pack,’ a three-piece footwear collection designed in partnership with the South Korean brand. A toggle lacing system secures the upper, built with dark grey mesh and synthetic overlays in black and metallic silver. Dual branding appears on the insoles, while ‘UNAFFECTED’ and ‘GEL Kayano 14’ are stamped on the lateral heel of each shoe. The lifestyle runner rests on a lightweight EVA midsole with visible GEL cushioning in the forefoot and heel.",
+        "links": {
+          "goat": "https://goat.com/sneakers/unaffected-x-gel-kayano-14-infinite-wonders-pack-dark-shadow-1201a922-020",
+          "stockX": "https://stockx.com/asics-gel-kayano-14-unaffected-infinite-wonders-pack-black",
+          "flightClub": "https://flightclub.com/unaffected-x-gel-kayano-14-infinite-wonders-pack-dark-shadow-1201a922-020",
+          "stadiumGoods": ""
+        },
+        "images": {
+          "360": [],
+          "small": "https://image.goat.com/750/attachments/product_template_pictures/images/094/896/075/original/1201A922_020.png.png",
+          "original": "https://image.goat.com/attachments/product_template_pictures/images/094/896/075/original/1201A922_020.png.png",
+          "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/094/896/075/original/1201A922_020.png.png"
+        }
+      },
+      "10": {
+        "id": "10",
+        "name": "ASICS Gel-Kayano 14 Unaffected Infinite Wonders Pack White",
+        "stock_quantity": 0,
+        "price": 200,
+        "sku": "1201A922-100",
+        "brand": "ASICS",
+        "color": "Bright White/Jet Black",
+        "estimated_market_price": 199,
+        "gender": "men",
+        "release_date": "2023-11-24",
+        "release_year": "2023",
+        "story": "Launching as part of the collaborative ‘Infinite Wonders Pack,’ the UNAFFECTED x ASICS GEL Kayano 14 ‘Bright White’ updates the lifestyle runner with a modified design inspired by the great outdoors. Toggle lacing secures the upper, crafted from white mesh with tonal synthetic overlays. Contrasting black accents land on the ASICS tongue patch and heel overlay, marked with mismatched GEL Kayano 14 and UNAFFECTED branding on the lateral side of each shoe. The sneaker rides on a lightweight EVA midsole with visible GEL cushioning in the forefoot and heel.",
+        "links": {
+          "goat": "https://goat.com/sneakers/unaffected-x-gel-kayano-14-infinite-wonders-pack-bright-white-1201a922-100",
+          "stockX": "https://stockx.com/asics-gel-kayano-14-unaffected-infinite-wonders-pack-white",
+          "flightClub": "https://flightclub.com/unaffected-x-gel-kayano-14-infinite-wonders-pack-bright-white-1201a922-100",
+          "stadiumGoods": ""
+        },
+        "images": {
+          "360": [],
+          "small": "https://image.goat.com/750/attachments/product_template_pictures/images/094/896/076/original/1201A922_100.png.png",
+          "original": "https://image.goat.com/attachments/product_template_pictures/images/094/896/076/original/1201A922_100.png.png",
+          "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/094/896/076/original/1201A922_100.png.png"
+        }
+      },
+      "11": {
+        "id": "11",
+        "name": "ASICS GT-2160 Cecilie Bahnsen Habanero",
+        "stock_quantity": 0,
+        "price": 230,
+        "sku": "1203A525-100",
+        "brand": "ASICS",
+        "color": "White/Habanero",
+        "estimated_market_price": 256,
+        "gender": "men",
+        "release_date": "2023-11-22",
+        "release_year": "2023",
+        "story": "",
+        "links": {
+          "goat": "https://goat.com/sneakers/cecilie-bahnsen-x-gt-2160-habanero-1203a525-100",
+          "stockX": "https://stockx.com/asics-gt-2160-cecilie-bahnsen-habanero",
+          "flightClub": "https://flightclub.com/cecilie-bahnsen-x-gt-2160-habanero-1203a525-100",
+          "stadiumGoods": ""
+        },
+        "images": {
+          "360": [],
+          "small": "https://image.goat.com/750/attachments/product_template_pictures/images/094/831/086/original/1203A525_100.png.png",
+          "original": "https://image.goat.com/attachments/product_template_pictures/images/094/831/086/original/1203A525_100.png.png",
+          "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/094/831/086/original/1203A525_100.png.png"
+        }
+      }
+    }
+  }
+}
