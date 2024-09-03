@@ -48,9 +48,14 @@
     "gender": {
       "type": "enumeration",
       "enum": [
+        "child",
+        "infant",
         "men",
+        "preschool",
+        "toddler",
+        "unisex",
         "women",
-        "unisex"
+        "youth"
       ]
     },
     "release_date": {

@@ -996,7 +996,18 @@ export interface ApiProductProduct extends Schema.CollectionType {
     >;
     color: Attribute.String;
     estimated_market_price: Attribute.Float;
-    gender: Attribute.Enumeration<['men', 'women', 'unisex']>;
+    gender: Attribute.Enumeration<
+      [
+        'child',
+        'infant',
+        'men',
+        'preschool',
+        'toddler',
+        'unisex',
+        'women',
+        'youth'
+      ]
+    >;
     release_date: Attribute.Date;
     release_year: Attribute.String;
     story: Attribute.Text;
