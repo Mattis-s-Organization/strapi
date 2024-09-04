@@ -22,6 +22,7 @@ module.exports = [
     name: "strapi::body",
     config: {
       includeUnparsed: true,
+      jsonLimit: "100mb",
     },
   },
   "strapi::session",
