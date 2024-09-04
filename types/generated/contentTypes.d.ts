@@ -809,6 +809,11 @@ export interface ApiBrandBrand extends Schema.CollectionType {
   };
   attributes: {
     name: Attribute.String & Attribute.Required & Attribute.Unique;
+    products: Attribute.Relation<
+      'api::brand.brand',
+      'oneToMany',
+      'api::product.product'
+    >;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
     publishedAt: Attribute.DateTime;
@@ -1018,7 +1023,6 @@ export interface ApiProductProduct extends Schema.CollectionType {
       >;
     price: Attribute.Float;
     sku: Attribute.String & Attribute.Required & Attribute.Unique;
-    brand: Attribute.String & Attribute.Required;
     order_items: Attribute.Relation<
       'api::product.product',
       'oneToMany',
@@ -1048,6 +1052,11 @@ export interface ApiProductProduct extends Schema.CollectionType {
       'api::product.product',
       'manyToOne',
       'api::cart-item.cart-item'
+    >;
+    brand: Attribute.Relation<
+      'api::product.product',
+      'manyToOne',
+      'api::brand.brand'
     >;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;

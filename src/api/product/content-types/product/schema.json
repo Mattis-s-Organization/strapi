@@ -29,10 +29,6 @@
       "required": true,
       "unique": true
     },
-    "brand": {
-      "type": "string",
-      "required": true
-    },
     "order_items": {
       "type": "relation",
       "relation": "oneToMany",
@@ -80,6 +76,12 @@
       "type": "relation",
       "relation": "manyToOne",
       "target": "api::cart-item.cart-item",
+      "inversedBy": "products"
+    },
+    "brand": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::brand.brand",
       "inversedBy": "products"
     }
   }
