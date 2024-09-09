@@ -23,6 +23,19 @@
       "relation": "manyToOne",
       "target": "plugin::users-permissions.user",
       "inversedBy": "orders"
+    },
+    "status": {
+      "type": "enumeration",
+      "enum": [
+        "in_preparation",
+        "shipped",
+        "delivered"
+      ],
+      "default": "in_preparation"
+    },
+    "shipping_details": {
+      "type": "json",
+      "required": true
     }
   }
 }

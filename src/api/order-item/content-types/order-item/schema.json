@@ -28,6 +28,10 @@
       "relation": "manyToOne",
       "target": "api::product.product",
       "inversedBy": "order_items"
+    },
+    "size": {
+      "type": "integer",
+      "required": true
     }
   }
 }

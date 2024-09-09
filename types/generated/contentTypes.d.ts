@@ -934,6 +934,9 @@ export interface ApiOrderOrder extends Schema.CollectionType {
       'manyToOne',
       'plugin::users-permissions.user'
     >;
+    status: Attribute.Enumeration<['in_preparation', 'shipped', 'delivered']> &
+      Attribute.DefaultTo<'in_preparation'>;
+    shipping_details: Attribute.JSON & Attribute.Required;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
     publishedAt: Attribute.DateTime;
@@ -982,6 +985,7 @@ export interface ApiOrderItemOrderItem extends Schema.CollectionType {
       'manyToOne',
       'api::product.product'
     >;
+    size: Attribute.Integer & Attribute.Required;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
     publishedAt: Attribute.DateTime;
